@@ -1,1 +1,7 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/idle-ant/sw.js', { scope: '/idle-ant/' })})}
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("./sw.js", {
+      scope: "./",
+    });
+  });
+}
