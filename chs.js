@@ -84,6 +84,7 @@ var cnItems = {
     "Mats: {{*|, |、}}": "材料：{{*|, |、}}",
 
     // --- 数字占位符 {{%d}} ---
+    "Buy {{%d}}": "购买 {{%d}}",
     "HP: {{%d}}": "生命值：{{%d}}",
     "DMG: {{%d}}": "伤害：{{%d}}",
 
@@ -110,8 +111,8 @@ var cnItems = {
     "Resources Gained":"获取资源",
     "While You Were Away":"离线期间收益",
     "max 2h":"最多2小时",
-    "":"",
-    "":"",
+    "Ants: ":" 蚂蚁: ",
+    " Need 1,000 food produced this run to prestige ":"本次需要生产1000份食品以声望",
     "":"",
     "":"",
     "":"",
