@@ -84,6 +84,8 @@ var cnItems = {
     "Mats: {{*|, |、}}": "材料：{{*|, |、}}",
 
     // --- 数字占位符 {{%d}} ---
+    "{{%d}}s": "{{%d}}秒",
+    "{{%d}}m": "{{%d}}分",
     "Buy {{%d}}": "购买 {{%d}}",
     "HP: {{%d}}": "生命值：{{%d}}",
     "DMG: {{%d}}": "伤害：{{%d}}",
@@ -467,6 +469,7 @@ var cnItems = {
     "Workers hesitate for less time during rando": "工蚁在随机移动暂停时",
     "farther away": "更远处",
     "movement pause": "移动暂停",
+    "movement pauses": "移动暂停",
     "Each delivered morsel fro": "此来源每份运送的",
     "this source is worth more": "食物更有价值",
     "More passive income fro": "更多被动收入来自",
